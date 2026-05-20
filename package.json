@@ -1,0 +1,11 @@
+{
+  "name": "bans-fyi",
+  "private": true,
+  "version": "0.1.0",
+  "packageManager": "pnpm@9.15.9",
+  "scripts": {
+    "build": "pnpm --filter web build",
+    "deploy:worker": "pnpm --filter worker deploy"
+  },
+  "devDependencies": {}
+}

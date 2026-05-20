@@ -1,0 +1,10 @@
+name = "bans-fyi-api"
+main = "src/index.ts"
+compatibility_date = "2026-05-20"
+
+[vars]
+GITHUB_OWNER = "CHANGE_ME"
+GITHUB_REPO = "bans.fyi"
+GITHUB_BRANCH = "main"
+GITHUB_ALLOWED_USER = "CHANGE_ME"
+APP_ORIGIN = "https://bans.fyi"
